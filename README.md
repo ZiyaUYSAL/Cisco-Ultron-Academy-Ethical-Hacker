@@ -11,3 +11,6 @@
 - [The Open Source Security Testing Methodology Manual (OSSTMM)](https://www.isecom.org)
 - [The Penetration Testing Execution Standard (PTES)](http://www.pentest-standard.org)
 - The Information Systems Security Assessment Framework (ISSAF)
+
+### Building Your Own Lab
+- [Omar Santos GitHub repository](https://github.com/The-Art-of-Hacking/h4cker)
