@@ -27,3 +27,5 @@
 - [Health Insurance Portability and Accountability Act of 1996 (HIPAA)](https://www.cdc.gov/phlp/publications/topic/hipaa.html)
 - [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/)
 - [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+- [NIST’s general key management guidance](https://csrc.nist.gov/projects/key-management/key-management-guidelines)
+- 
