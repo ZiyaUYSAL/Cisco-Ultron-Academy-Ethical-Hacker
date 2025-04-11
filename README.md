@@ -40,7 +40,7 @@
 - **Recon-ng** is an OSINT framework that is similar to the Metasploit exploitation framework or the Social-Engineering Tooklit (SET)
 
 ### DNS Lookups
-- **DNSRecon Example** $ dnsrecon -d h4cker.org
+- **DNSRecon Example -** $ dnsrecon -d h4cker.org
 
 
 
