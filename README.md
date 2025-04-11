@@ -31,4 +31,5 @@
 
 ## Module 3: Information Gathering and Vulnerability Scanning
 
-### Başlık
+### Using OSINT Tools
+- [OSINT Framework](https://osintframework.com/)
