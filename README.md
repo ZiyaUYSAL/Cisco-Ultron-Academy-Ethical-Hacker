@@ -36,5 +36,6 @@
 - [WhatsMyName Web](https://whatsmyname.app/)
 - [OSINT Combine](https://whatsmyname.app/)
 - [SMART - Start Me Aggregated Resource Tool](https://smart.myosint.training/)
-
+- SpiderFoot is an automated OSINT scanner
+- Recon-ng is an OSINT framework that is similar to the Metasploit exploitation framework or the Social-Engineering Tooklit (SET)
 
