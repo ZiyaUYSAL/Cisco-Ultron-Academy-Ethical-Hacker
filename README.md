@@ -28,4 +28,6 @@
 - [Federal Risk and Authorization Management Program (FedRAMP)](https://www.fedramp.gov/)
 - [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
 - [NIST General Key Management Guidance (NIST SP 800-57)](https://csrc.nist.gov/projects/key-management/key-management-guidelines)
-- 
+
+## Module 3: Information Gathering and Vulnerability Scanning
+- [Payment Card Industry Data Security Standard (PCI DSS)](https://www.pcisecuritystandards.org/)
