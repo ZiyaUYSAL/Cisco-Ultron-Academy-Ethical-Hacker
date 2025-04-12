@@ -56,6 +56,6 @@
 
 ### Cryptographic Flaws
 - **The Digital Certificate Assigned to h4cker.org -** [Let’s Encrypt](https://letsencrypt.org/)
-
+- [Certificate Transparency](https://certificate.transparency.dev/)
 
 
