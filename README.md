@@ -87,3 +87,26 @@
 - File Metadata - **Using ExifTool -** $exiftool IMG_4730.jpg
 - Strategic Search Engine Analysis/Enumeration - [Google Hacking Database (GHDB) Repositories](https://www.exploit-db.com/google-hacking-database/)
 - Website Archiving/Caching - [“Wayback Machine” of Internet Archive](https://archive.org/web)
+
+### Open-Source Intelligence (OSINT) Gathering
+- Recon-ng
+  - **Step 1: Starting Recon-ng -** $recon-ng
+  - **Step 2: Recon-ng help Command -** [recon-ng][default] > help
+  - **Step 3: The Recon-ng Marketplace Search -** [recon-ng][default] > marketplace search
+  - **Step 4: Refreshing the Recon-ng Marketplace Data -** [recon-ng][default] > marketplace refresh
+  - **Step 5: Marketplace Keyword Search -** [recon-ng][default] > marketplace search bing
+  - **Step 6: Installing a Recon-ng Module -** [recon-ng][default] > marketplace install recon/domains-hosts/bing_domain_web
+  - **Step 7: Recon-ng Installed Modules -** [recon-ng][default] > modules search
+  - **Step 8.1: Loading an Installed Module in Recon-ng -** [recon-ng][default] > modules load recon/domains-hosts/bing_domain_web
+  - **Step 8.2: Loading an Installed Module in Recon-ng -** [recon-ng][default][bing_domain_web] > info
+  - **Step 9.1: Setting the Source Domain and Running the Query -** [recon-ng][default][bing_domain_web] > options set SOURCE h4cker.org
+  - **Step 9.2: Setting the Source Domain and Running the Query -** [recon-ng][default][bing_domain_web] > run
+
+ - [Shodan](https://www.shodan.io/)
+
+
+
+ 
+
+
+
