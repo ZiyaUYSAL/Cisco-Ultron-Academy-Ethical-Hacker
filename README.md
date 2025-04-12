@@ -76,6 +76,10 @@
   - [Buster](https://github.com/sham00n/buster)
   - [Scavenger](https://github.com/rndinfosecguy/Scavenger)
   - [PwnDB](https://github.com/davidtavarez/pwndb)
+  - [haveibeenpwned](https://haveibeenpwned.com/)
+  - [SnusBase](https://snusbase.com/)
+  - Websites such as **weleakinfo.com** (seized by the FBI) have been used by criminals to dump information from past security breaches.
 
-
-
+- File Metadata - **Using ExifTool -** $exiftool IMG_4730.jpg
+- Strategic Search Engine Analysis/Enumeration - [Google Hacking Database (GHDB) Repositories](https://www.exploit-db.com/google-hacking-database/)
+- Website Archiving/Caching - [“Wayback Machine” of Internet Archive](https://archive.org/web)
