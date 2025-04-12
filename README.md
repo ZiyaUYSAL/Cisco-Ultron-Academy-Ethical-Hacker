@@ -45,6 +45,8 @@
 - **DNSRecon Example -** $dnsrecon -d h4cker.org
 - **Using Dig to Obtain Information About a Given Domain -** $dig h4cker.org
 - **Obtaining the MX Record of h4cker.org -** $dig h4cker.org mx
+- **Lab - DNS Lookups -** [Uploading 3.1.9-Lab_DNS_Lookups.html…]()
+
 
 ### Identification of Technical and Administrative Contacts
 - **Whois Information for the Domain h4cker.org -** $whois h4cker.org
