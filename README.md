@@ -78,6 +78,10 @@
   - [PwnDB](https://github.com/davidtavarez/pwndb)
   - [haveibeenpwned](https://haveibeenpwned.com/)
   - [SnusBase](https://snusbase.com/)
+  - [F‑Secure](https://www.f-secure.com/en)
+  - [HackNotice](https://hacknotice.com/)
+  - [BreachDirectory](https://breachdirectory.com/)
+  - [Keeper](https://www.keepersecurity.com/)
   - Websites such as **weleakinfo.com** (seized by the FBI) have been used by criminals to dump information from past security breaches.
 
 - File Metadata - **Using ExifTool -** $exiftool IMG_4730.jpg
