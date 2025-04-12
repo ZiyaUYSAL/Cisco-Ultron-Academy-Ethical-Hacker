@@ -41,8 +41,8 @@
 - [WebSploit Labs](https://websploit.org/)
   
 ### DNS Lookups
-- **DNSRecon Example -** $ dnsrecon -d h4cker.org
-
+- **DNSRecon Example -** $dnsrecon -d h4cker.org
+- **Using Dig to Obtain Information About a Given Domain -** $dig h4cker.org
 
 
 
