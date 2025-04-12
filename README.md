@@ -38,6 +38,7 @@
 - [SMART - Start Me Aggregated Resource Tool](https://smart.myosint.training/)
 - **SpiderFoot** is an automated OSINT scanner
 - **Recon-ng** is an OSINT framework that is similar to the Metasploit exploitation framework or the Social-Engineering Tooklit (SET)
+- [Omar Santos GitHub Repository](https://github.com/The-Art-of-Hacking/h4cker/tree/master/osint)
 - [WebSploit Labs](https://websploit.org/)
   
 ### DNS Lookups
