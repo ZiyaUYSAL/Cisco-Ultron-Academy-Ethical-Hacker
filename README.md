@@ -60,10 +60,12 @@
 - Revealing Additional Subdomains Using Digital Certificate Information in [crt.sh](https://crt.sh/)
 
 ### Use SSL Analysis Tools in Kali
-| Tool  | Description | Recon, Exploitation, or Utility |
+|Tool|Description|Recon, Exploitation, or Utility|
 |----------|----------|----------|
-| Veri 1   | Veri 2   | Veri 3   |
-| Veri 4   | Veri 5   | Veri 6   |
-| Veri 7   | Veri 8   | Veri 9   |
+|sslscan|Queries SSL services to determine what cyphers are supported|Reconnaissance|
+|ssldump|Analyze and decode SSL traffic|Exploitation|
+|sslh|Running multiple services on port 443|Utility|
+|sslsplit|Enable MitM attacks on SSL encrypted network connections|Exploitation|
+|sslyze|Analyze the SSL configuration of a server by connecting to it|Reconnaissance|
 
 
