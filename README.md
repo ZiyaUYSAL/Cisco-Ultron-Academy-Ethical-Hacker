@@ -47,6 +47,6 @@
 
 ### Identification of Technical and Administrative Contacts
 - **Whois Information for the Domain h4cker.org -** $whois h4cker.org
-
+- **Showing Technical and Administrative Email Contacts -** $whois cisco.com | grep '@cisco.com'
 
 
