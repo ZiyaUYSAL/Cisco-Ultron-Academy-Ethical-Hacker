@@ -59,3 +59,11 @@
 - [Certificate Transparency](https://certificate.transparency.dev/)
 - Revealing Additional Subdomains Using Digital Certificate Information in [crt.sh](https://crt.sh/)
 
+### Use SSL Analysis Tools in Kali
+| Tool  | Description | Recon, Exploitation, or Utility |
+|----------|----------|----------|
+| Veri 1   | Veri 2   | Veri 3   |
+| Veri 4   | Veri 5   | Veri 6   |
+| Veri 7   | Veri 8   | Veri 9   |
+
+
