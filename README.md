@@ -46,11 +46,10 @@
 - **Using Dig to Obtain Information About a Given Domain -** $dig h4cker.org
 - **Obtaining the MX Record of h4cker.org -** $dig h4cker.org mx
 
-
-
-
 ### Identification of Technical and Administrative Contacts
 - **Whois Information for the Domain h4cker.org -** $whois h4cker.org
 - **Showing Technical and Administrative Email Contacts -** $whois cisco.com | grep '@cisco.com'
 
+### Cloud vs. Self-Hosted Applications and Related Subdomains
+- **DNS Name Resolution for netflix.com -** $host netflix.com
 
