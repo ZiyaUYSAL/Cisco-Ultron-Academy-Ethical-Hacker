@@ -52,4 +52,4 @@
 
 ### Cloud vs. Self-Hosted Applications and Related Subdomains
 - **DNS Name Resolution for netflix.com -** $host netflix.com
-
+- **Example of the Ownership of IP Addresses and Applications Hosted in the Cloud-** $whois 3.230.129.93 | grep OrgName
