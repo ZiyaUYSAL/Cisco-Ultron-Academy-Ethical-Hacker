@@ -58,8 +58,8 @@
 - **The Digital Certificate Assigned to h4cker.org -** [Let’s Encrypt](https://letsencrypt.org/)
 - [Certificate Transparency](https://certificate.transparency.dev/)
 - Revealing Additional Subdomains Using Digital Certificate Information in [crt.sh](https://crt.sh/)
+- **Use SSL Analysis Tools in Kali**
 
-### Use SSL Analysis Tools in Kali
 |Tool|Description|Recon, Exploitation, or Utility|
 |----------|----------|----------|
 |sslscan|Queries SSL services to determine what cyphers are supported|Reconnaissance|
@@ -67,5 +67,15 @@
 |sslh|Running multiple services on port 443|Utility|
 |sslsplit|Enable MitM attacks on SSL encrypted network connections|Exploitation|
 |sslyze|Analyze the SSL configuration of a server by connecting to it|Reconnaissance|
+
+### Company Reputation and Security Posture
+- Password Dumps
+  - **h8mail** (pip3 install h8mail) is an example of a tool that allows you to find email addresses and passwords exposed in previous breaches
+  - [WhatBreach](https://github.com/Ekultek/WhatBreach)
+  - [LeakLooker](https://github.com/woj-ciech/LeakLooker)
+  - [Buster](https://github.com/sham00n/buster)
+  - [Scavenger](https://github.com/rndinfosecguy/Scavenger)
+  - [PwnDB](https://github.com/davidtavarez/pwndb)
+
 
 
